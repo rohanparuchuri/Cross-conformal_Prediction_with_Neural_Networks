@@ -26,10 +26,10 @@ The target variable is the median value of the houses in thousands of dollars ba
 ## Implementation:
 The programming language used for implementing cross-conformal prediction framework is Python 3.12.4, and the libraries used are Tensorflow, Pandas, Numpy, Keraas-Tuner, Scikit-learn, Matplotlib.
 ## References:
-1] Algorithmic Learning in a Random World, 2005. . Springer-Verlag, New York. https://doi.org/10.1007/b106715
-2] Barber, R.F., Candes, E.J., Ramdas, A., Tibshirani, R.J., 2019. Predictive inference with the jackknife+. https://doi.org/10.48550/ARXIV.1905.02928
-3] Duch, W., Iliadis, L.S., Diamantaras, K.I., 2010. Artificial Neural Networks - ICANN 2010: 20th International Conference, Thessaloniki, Greece, September 15-18, 2010, Proceedings, Part I, Lecture Notes in Computer Science. Springer Berlin Heidelberg Springer e-books, Berlin, Heidelberg.
-4] Papadopoulos, H., Vovk, V., Gammermam, A., 2007. Conformal Prediction with Neural Networks, in: 19th IEEE International Conference on Tools with Artificial Intelligence(ICTAI 2007). Presented at the 19th IEEE International Conference on Tools with Artificial Intelligence(ICTAI 2007), IEEE, Patras, Greece, pp. 388–395. https://doi.org/10.1109/ICTAI.2007.47
-5] Vovk, V., 2015. Cross-conformal predictors. Ann. Math. Artif. Intell. 74, 9–28. https://doi.org/10.1007/s10472-013-9368-4
-6] Fontana, Matteo, Gianluca Zeni, and Simone Vantini. “Conformal Prediction: A Unified Review of Theory and New Challenges.” Bernoulli
+1. Algorithmic Learning in a Random World, 2005. . Springer-Verlag, New York. https://doi.org/10.1007/b106715
+2. Barber, R.F., Candes, E.J., Ramdas, A., Tibshirani, R.J., 2019. Predictive inference with the jackknife+. https://doi.org/10.48550/ARXIV.1905.02928
+3. Duch, W., Iliadis, L.S., Diamantaras, K.I., 2010. Artificial Neural Networks - ICANN 2010: 20th International Conference, Thessaloniki, Greece, September 15-18, 2010, Proceedings, Part I, Lecture Notes in Computer Science. Springer Berlin Heidelberg Springer e-books, Berlin, Heidelberg.
+4. Papadopoulos, H., Vovk, V., Gammermam, A., 2007. Conformal Prediction with Neural Networks, in: 19th IEEE International Conference on Tools with Artificial Intelligence(ICTAI 2007). Presented at the 19th IEEE International Conference on Tools with Artificial Intelligence(ICTAI 2007), IEEE, Patras, Greece, pp. 388–395. https://doi.org/10.1109/ICTAI.2007.47
+5. Vovk, V., 2015. Cross-conformal predictors. Ann. Math. Artif. Intell. 74, 9–28. https://doi.org/10.1007/s10472-013-9368-4
+6. Fontana, Matteo, Gianluca Zeni, and Simone Vantini. “Conformal Prediction: A Unified Review of Theory and New Challenges.” Bernoulli
 29, no. 1 (February 1, 2023). https://doi.org/10.3150/21-BEJ1447. Tools in Artificial Intelligence. Erscheinungsort nicht ermittelbar: IntechOpen, 2008.
